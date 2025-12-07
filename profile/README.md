@@ -12,5 +12,3 @@ We offer a unified, comprehensive ecosystem for businesses dealing with both tra
 * **🪙 Stablecoin Settlement:** Facilitating fast and efficient cross-border settlement.
 * **🔌 On/Off-Ramp Capabilities:** Seamless conversion between fiat and digital assets.
 * **🖼️ Card Issuing:** Providing real-world utility for digital assets.
-
-Our platform is **MiCA-aligned** and **regulated**, ensuring our solutions meet the highest standards of compliance and security across Europe.
