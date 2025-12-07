@@ -1,10 +1,10 @@
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../xMoney.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="[./xMoney.svg](https://raw.githubusercontent.com/xMoney-Payments/.github/main/xMoney.svg)">
 
-    <img alt="xMoney Logo" src="../xMoney_main.svg" width="200">
+    <img alt="xMoney Logo" src="https://raw.githubusercontent.com/xMoney-Payments/.github/main/xMoney_main.svg">
   </picture>
-</div>
+</p>
 
 **The regulated, MiCA-aligned payments platform that unifies fiat and crypto rails for compliant, fast merchant payments.**
 
