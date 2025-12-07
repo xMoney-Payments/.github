@@ -1,9 +1,13 @@
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../xMoney.svg">
-  <img alt="xMoney Logo" src="../xMoney_main.svg">
-</picture>
-</p>
+<div align="center">
+  <a href="https://www.xmoney.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../xMoney.svg">
+      <img alt="xMoney Logo" src="../xMoney_main.svg">
+    </picture>
+  </a>
+</div>
+
+<h1></h1>
 
 **The regulated, MiCA-aligned payments platform that unifies fiat and crypto rails for compliant, fast merchant payments.**
 
