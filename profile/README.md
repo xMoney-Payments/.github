@@ -15,7 +15,7 @@ xMoney is building the secure and scalable bridge between traditional finance an
 
 We offer a unified, comprehensive ecosystem for businesses dealing with both traditional and digital currencies. Our core services include:
 
-* **💳 Licensed Payment Processing:** Enabling merchants to accept payments globally.
+* **💳 Payment Processing:** Enabling merchants to accept payments globally.
 * **🪙 Stablecoin Settlement:** Facilitating fast and efficient cross-border settlement.
 * **🔌 On/Off-Ramp Capabilities:** Seamless conversion between fiat and digital assets.
 * **🖼️ Card Issuing:** Providing real-world utility for digital assets.
