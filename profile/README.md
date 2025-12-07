@@ -16,21 +16,3 @@ We offer a unified, comprehensive ecosystem for businesses dealing with both tra
 * **🖼️ Card Issuing:** Providing real-world utility for digital assets.
 
 Our platform is **MiCA-aligned** and **regulated**, ensuring our solutions meet the highest standards of compliance and security across Europe.
-
----
-
-## 🤝 Get Involved
-
-We welcome community engagement, feedback, and contributions.
-
-* **Contributing:** Check out our `CONTRIBUTING.md` file in each repository for specific guidelines on how to submit pull requests and report bugs.
-* **Security:** If you find a security vulnerability, please report it privately through our official channels. Please visit our main website for details on our responsible disclosure policy and security contact information.
-* **Support:** For general inquiries, technical support, or partnership requests, please visit our official website.
-
----
-
-## 🔗 Find Us
-
-* **Website:** [xmoney.com](https://www.xmoney.com)
-* **Developers:** [Documentation](https://docs.xmoney.com)
-* **Twitter/X:** [@xMoney_com](https://x.com/xMoney_com)
