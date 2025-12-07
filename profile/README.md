@@ -4,8 +4,6 @@
 
 xMoney is building the secure and scalable bridge between traditional finance and modern digital payments. We provide businesses with the tools needed to accept, settle, and move money globally with speed, compliance, and lower fees.
 
----
-
 ## 💡 What We Do
 
 We offer a unified, comprehensive ecosystem for businesses dealing with both traditional and digital currencies. Our core services include:
